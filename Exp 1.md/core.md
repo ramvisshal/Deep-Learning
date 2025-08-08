@@ -25,6 +25,11 @@ plt.plot(history.history['loss'])
 plt.title('Model Loss over Epochs')
 plt.xlabel('Epoch')
 plt.ylabel('Loss')
-plt.grid(True)<img width="675" height="779" alt="Screenshot 2025-08-08 211100" src="https://github.com/user-attachments/assets/7ad2f6e3-efb5-4765-8d6f-1578ec280c02" />
-
+plt.grid(True)
 plt.show()
+
+
+Output:
+
+
+<img width="675" height="779" alt="Screenshot 2025-08-08 211100" src="https://github.com/user-attachments/assets/7ad2f6e3-efb5-4765-8d6f-1578ec280c02" />
