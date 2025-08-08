@@ -30,4 +30,8 @@ plt.legend()
 plt.grid(True)
 plt.show()
 
+
+Output:
+
+
 <img width="843" height="581" alt="Screenshot 2025-08-08 210336" src="https://github.com/user-attachments/assets/9a334759-ab2e-4d81-a7dc-38079fc99fca" />
